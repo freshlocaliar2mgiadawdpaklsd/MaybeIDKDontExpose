@@ -1,4 +1,3 @@
---// I just found this from Eazvy, he's probably the creator, who knows. This lib is fine asl
 repeat
     wait()
 until game:IsLoaded()
